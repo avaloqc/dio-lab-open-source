@@ -1,6 +1,6 @@
 ## A. Roberto Campos
 
-Sou um desenvolvedor web backend Java/NodeJS morando em boa Vista, Brasil. Tenho interese no desenvolvimento do lado do servidor e infrastrutra como souloções cloud, DevOps e desenvolvimento backend.
+Sou um desenvolvedor web backend Java/NodeJS morando em boa Vista, Brasil. Tenho interesse no desenvolvimento do lado do servidor e infrastrutra como souloções cloud, DevOps e desenvolvimento backend.
 
 ### Conecte-se comigo
 
